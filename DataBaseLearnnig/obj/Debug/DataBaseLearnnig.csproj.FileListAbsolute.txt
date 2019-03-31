@@ -1,0 +1,10 @@
+c:\users\abbaswwt\source\repos\DataBaseLearnnig\DataBaseLearnnig\bin\Debug\DataBaseLearnnig.exe.config
+c:\users\abbaswwt\source\repos\DataBaseLearnnig\DataBaseLearnnig\bin\Debug\DataBaseLearnnig.exe
+c:\users\abbaswwt\source\repos\DataBaseLearnnig\DataBaseLearnnig\bin\Debug\DataBaseLearnnig.pdb
+c:\users\abbaswwt\source\repos\DataBaseLearnnig\DataBaseLearnnig\obj\Debug\DataBaseLearnnig.csprojResolveAssemblyReference.cache
+c:\users\abbaswwt\source\repos\DataBaseLearnnig\DataBaseLearnnig\obj\Debug\DataBaseLearnnig.Form1.resources
+c:\users\abbaswwt\source\repos\DataBaseLearnnig\DataBaseLearnnig\obj\Debug\DataBaseLearnnig.Properties.Resources.resources
+c:\users\abbaswwt\source\repos\DataBaseLearnnig\DataBaseLearnnig\obj\Debug\DataBaseLearnnig.csproj.GenerateResource.Cache
+c:\users\abbaswwt\source\repos\DataBaseLearnnig\DataBaseLearnnig\obj\Debug\DataBaseLearnnig.csproj.CoreCompileInputs.cache
+c:\users\abbaswwt\source\repos\DataBaseLearnnig\DataBaseLearnnig\obj\Debug\DataBaseLearnnig.exe
+c:\users\abbaswwt\source\repos\DataBaseLearnnig\DataBaseLearnnig\obj\Debug\DataBaseLearnnig.pdb
